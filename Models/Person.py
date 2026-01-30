@@ -1,5 +1,5 @@
 class Person:
-    def __init__(self, pid, name, age, ):
+    def __init__(self, pid, name, age):
         self.pid = pid
         self.name = name
         self.age = age
